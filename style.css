@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+body {
+    width: 100%;
+    background-image: url('Little Bird Toy Co Site Photos/background.webp');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bottom {
+    background-color: #421f00;
+    width: 100%;
+    height: 10%;
+}
