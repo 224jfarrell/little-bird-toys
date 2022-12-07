@@ -1,35 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+html {
+    max-width: 1920px;
+    overflow-x: hidden;
+}
 
 body {
     width: 100%;
     background-image: url('Little Bird Toy Co Site Photos/background.webp');
     background-size: cover;
     background-attachment: fixed;
-    max-width: 2000px;
 }
 
 .center-img {
-    margin: 0 300px 0 300px;
+    margin: 0 686px;
 }
 
 .half{
     width: 47%;
+    height: 1084px;
+}
+
+.text-header {
+    vertical-align: top;
+    font-family: 'Itim', cursive;
+    font-size: 48px;
+}
+
+.text-info {
+    font-size: 30px;
+    font-family: 'Catamaran', sans-serif;
+}
+
+#story {
+    margin-bottom: 9em;
+}
+
+#quality {
+    margin-bottom: 14.2em;
+}
+
+#sustainability {
+    margin-bottom: 4.3em;
 }
 
 #left {
     text-align: right;
-    margin-left: 10px;
+    margin-right: 10px;
+    margin-left: 0;
+    top: 372px;
 }
 
 #right {
-    margin-right: 10px;
+    margin-left: 10px;
+    margin-right: 0;
 }
 
 .bottom {
     background-color: #421f00;
     width: 2200px;
     height: 100px;
-    margin-left: 0
+    margin-left: 0;
+    margin-top: 30px;
+    bottom: 0;
+    left: 0
 }
 
 #bottom-nav {
@@ -47,9 +82,9 @@ body {
 .text-nav {
     color: white;
     font-size: 40px;
-    margin-bottom: 30px;
     margin-top: 0;
     font-family: 'Itim', cursive;
+    vertical-align: middle;
 }
 
 .sticky {
