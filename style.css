@@ -3,6 +3,7 @@
 
 html {
     max-width: 1920px;
+    max-height: 2000px;
     overflow-x: hidden;
 }
 
@@ -11,6 +12,7 @@ body {
     background-image: url('Little Bird Toy Co Site Photos/background.webp');
     background-size: cover;
     background-attachment: fixed;
+    margin-bottom: -20px;
 }
 
 .center-img {
@@ -84,9 +86,12 @@ body {
     font-size: 40px;
     margin-top: 0;
     font-family: 'Itim', cursive;
-    vertical-align: middle;
+    vertical-align: bottom;
+    margin-left: 20%;
 }
 
 .sticky {
     position: sticky;
+    margin-left: -10px;
+    margin-bottom: -20px;
 }
