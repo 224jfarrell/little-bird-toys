@@ -30,9 +30,10 @@ body {
     font-size: 48px;
 }
 
-.text-info {
+.text-info-c {
     font-size: 30px;
     font-family: 'Catamaran', sans-serif;
+    line-height: 178%;
 }
 
 #story {
@@ -44,7 +45,7 @@ body {
 }
 
 #sustainability {
-    margin-bottom: 4.3em;
+    margin-bottom: 4.2em;
 }
 
 #left {
