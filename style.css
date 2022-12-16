@@ -15,22 +15,36 @@ body {
     margin-bottom: -20px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+    transition: 1s
+}
+
+a:hover {
+    color: #ffa85c
+}
+
+#margin-lol {
+    margin-left: 477px;
+}
+
 .center-img {
     margin: 0 686px;
 }
 
+.half-img {
+    width: 50%;
+}
+
 .center{
     margin-left: 20px;
+    padding: 0 70px;
 }
 
 #contact {
     width: 75%;
     margin-left: 12.5%;
-}
-
-.half{
-    width: 47%;
-    height: 1084px;
 }
 
 .text-header {
@@ -45,29 +59,10 @@ body {
     line-height: 178%;
 }
 
-#story {
-    margin-bottom: 9em;
+.text-index {
+    padding: 0 40px;
 }
 
-#quality {
-    margin-bottom: 14.2em;
-}
-
-#sustainability {
-    margin-bottom: 4.2em;
-}
-
-#left {
-    text-align: right;
-    margin-right: 10px;
-    margin-left: 0;
-    top: 372px;
-}
-
-#right {
-    margin-left: 10px;
-    margin-right: 0;
-}
 
 .bottom {
     background-color: #421f00;
@@ -81,10 +76,7 @@ body {
 
 #bottom-nav {
     height: 90px;
-    margin-top: 5px;
-    margin-left: 5px;
-    margin-bottom: 5px;
-    margin-right: 5px;
+    margin: 5px 5px 5px 15px
 }
 
 .inline-block{
@@ -97,7 +89,7 @@ body {
     margin-top: 0;
     font-family: 'Itim', cursive;
     vertical-align: bottom;
-    margin-left: 20%;
+    margin-left: 440px;
 }
 
 .sticky {
