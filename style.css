@@ -42,6 +42,27 @@ a:hover {
     padding: 0 70px;
 }
 
+.m-15 {
+    width: 15px;
+}
+
+.input {
+    margin-left: 90px;
+    margin-bottom: 20px;
+    width: 1000px;
+}
+
+.submit {
+    width: 250px;
+    background-color: #ffa85c;
+
+}
+
+.inline-block-contact {
+    width: 50px;
+    display: inline-block
+}
+
 #contact {
     width: 75%;
     margin-left: 12.5%;
