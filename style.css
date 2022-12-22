@@ -25,6 +25,28 @@ a:hover {
     color: #ffa85c
 }
 
+.sr-only {
+    color: black;
+}
+
+#block-carousel {
+    margin-left: 400px;
+    margin-right: 300px;
+}
+
+#boat-carousel {
+    margin-left: 550px;
+    margin-right: 300px;
+}
+
+.carousel-img {
+    height: 600px;
+}
+
+.margin-l-15 {
+    margin-left: 15px;
+}
+
 #margin-lol {
     margin-left: 477px;
 }
@@ -59,17 +81,17 @@ a:hover {
 }
 
 #block{
-    margin-bottom: ;
+    margin-bottom: 225px;
     margin-left: 15px;
 }
 
 #plane{
-    margin-bottom: ;
+    margin-bottom: 380px;
     margin-left: 15px;
 }
 
 #train{
-    margin-bottom: 175px;
+    margin-bottom: 280px;
     margin-left: 15px;
 }
 
