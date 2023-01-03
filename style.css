@@ -39,6 +39,21 @@ a:hover {
     margin-right: 300px;
 }
 
+#car-carousel {
+    margin-left: 550px;
+    margin-right: 450px;
+}
+
+#plane-carousel {
+    margin-left: 475px;
+    margin-right: 325px;
+}
+
+#train-carousel {
+    margin-left: 500px;
+    margin-right: 300px
+}
+
 .carousel-img {
     height: 600px;
 }
